@@ -4,9 +4,9 @@ I am Vishwa Prasad and have a Passionate about data analysis & visualization, ea
 
 I also love working with different technologies & platforms and my current favorite ones are
 
-❤️ SQL / MySQL
-❤️ Python
-❤️ Power BI
+- ❤️ SQL / MySQL
+- ❤️ Python
+- ❤️ Power BI
 
 📫Find me at
 [LinkedIn](https://www.linkedin.com/in/vishwa-prasadbj/)
