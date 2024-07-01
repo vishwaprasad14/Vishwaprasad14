@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello :wave:
 
 I am Vishwa Prasad and have a year of experience as a Data Analyst at Atelier Neorah Pvt Ltd. Passionate about leveraging data to uncover insights and drive business growth, I am constantly seeking opportunities to expand my skill set and stay abreast of emerging trends in data analytics.
 
