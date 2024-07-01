@@ -9,7 +9,8 @@ I also love working with different technologies & platforms and my current favor
 - ❤️ Power BI
 
 ### 📫Find me at
- [LinkedIn](https://www.linkedin.com/in/vishwa-prasadbj/)
+- **Email:** [your-email@example.com](mailto:vishwaprasad02@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vishwa-prasadbj/)
 <!--
 **vishwaprasad14/Vishwaprasad14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
