@@ -1,5 +1,15 @@
 ## Hello 👋
 
+I am Vishwa Prasad and have a Passionate about data analysis & visualization, eager to explore the realms of machine learning. Seeking innovative ways to transform raw data into useful data.
+
+I also love working with different technologies & platforms and my current favorite ones are
+
+❤️ SQL / MySQL
+❤️ Python
+❤️ Power BI
+
+📫Find me at
+[LinkedIn](https://www.linkedin.com/in/vishwa-prasadbj/)
 <!--
 **vishwaprasad14/Vishwaprasad14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
