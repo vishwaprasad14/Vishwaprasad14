@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I am Vishwa Prasad and have a Passionate about data analysis & visualization, eager to explore the realms of machine learning. Seeking innovative ways to transform raw data into useful data.
+I am Vishwa Prasad and have a year of experience as a Data Analyst at Atelier Neorah Pvt Ltd. Passionate about data analysis & visualization, eager to explore the realms of machine learning. Seeking innovative ways to transform raw data into useful data.
 
 I also love working with different technologies & platforms and my current favorite ones are
 
