@@ -4,7 +4,7 @@ I am Vishwa Prasad and have a year of experience as a Reporting Analyst at Ateli
 
 I also love working with different technologies & platforms and my current favorite ones are
 
-- ❤️ SQL / MySQL
+- ❤️ SQL
 - ❤️ Python
 - ❤️ Power BI
 
