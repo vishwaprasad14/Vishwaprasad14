@@ -12,6 +12,7 @@ I also love working with different technologies & platforms and my current favor
 ### 📫Find me at
 - **Email:** [vishwabjeyaprakash@gmail.com](mailto:vishwabjeyaprakash@gmail.com)
 - **LinkedIn:** [Vishwa Prasad](https://www.linkedin.com/in/vishwa-prasadbj/)
+- [Portfolio](https://vishwaprasadportfolio.notion.site/About-Me-1f57d37b59ae80a5b87afa0a1b589a7c?pvs=4)
 <!--
 **vishwaprasad14/Vishwaprasad14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
