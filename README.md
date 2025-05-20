@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I am Vishwa Prasad and have a year of experience as a Reporting Analyst. Seeking a career transition, with strong skills in MS Excel for reporting and automation. I also have hands-on project experience using SQL, Power BI, and Python for data analysis and visualization. Passionate about using data to drive business decisions and looking for opportunities in Data Analytics or Business Intelligence roles. Constantly seeking opportunities to expand my skill set and stay abreast of emerging trends in data analytics.
+I am Vishwa Prasad and have a year of experience as a Reporting Analyst. Seeking a career transition, with strong skills in MS Excel & Power BI for reporting and automation. I also have hands-on project experience using SQL and Python for data analysis and visualization. Passionate about using data to drive business decisions and looking for opportunities in Data Analytics or Business Intelligence roles. Constantly seeking opportunities to expand my skill set and stay abreast of emerging trends in data analytics.
 
 I also love working with different technologies & platforms and my current favorite ones are
 
