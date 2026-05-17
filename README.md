@@ -5,9 +5,9 @@ I am Vishwa Prasad and have 2 year of experience as a Data Analyst. Seeking a ca
 I also love working with different technologies & platforms and my current favorite ones are
 
 - ❤️ SQL
-- ❤️ Python
 - ❤️ Tableau
 - ❤️ Power BI
+- ❤️ Python
 - ❤️ Excel
 
 ### 📫Find me at
